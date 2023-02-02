@@ -248,7 +248,7 @@ public class Main {
 //			String driver = "com.mysql.jdbc.Driver";
 			String url = "jdbc:mysql://localhost:3306/test3";
 			String username = "root";
-			String password = "_bsBB47487683_";
+			String password = "@#@#@#";
 //			Class.forName(driver);
 			Connection conn = DriverManager.getConnection(url, username, password);
 			System.out.println("Connected");
